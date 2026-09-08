@@ -1,4 +1,4 @@
-import portrait from "@/assets/portrait.jpg";
+import portraitAsset from "@/assets/portrait-safwan.png.asset.json";
 import { profile } from "@/lib/portfolio-data";
 import { Reveal } from "./Reveal";
 
@@ -65,11 +65,11 @@ export function Hero() {
           />
           <div className="glass-card relative overflow-hidden rounded-[2rem] p-3">
             <img
-              src={portrait}
+              src={portraitAsset.url}
               alt={`Professional portrait of ${profile.name}`}
-              width={1024}
-              height={1280}
-              className="h-full w-full rounded-[1.6rem] object-cover"
+              width={1405}
+              height={1119}
+              className="aspect-[4/5] w-full rounded-[1.6rem] object-cover object-[60%_20%]"
             />
           </div>
           <div className="glass-card absolute -bottom-6 left-6 rounded-xl px-5 py-3">
