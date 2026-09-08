@@ -8,10 +8,10 @@ export const profile = {
   title: "Cloud AI Engineer",
   statement:
     "I build meaningful solutions, create measurable impact, and turn ambitious ideas into reality.",
-  email: "[YOUR EMAIL]",
+  email: "sfwkt10@gmail.com",
   linkedin: "[YOUR LINKEDIN]",
   github: "[YOUR GITHUB]",
-  location: "all over india",
+  location: "KERALA, INDIA",
   tagline: "Strategy, leadership and technology — executed with precision.",
 };
 
@@ -36,35 +36,35 @@ export const expertise = [
     icon: "compass" as const,
     title: "Leadership",
     description:
-      "Building and mentoring specialized AI and MLOps teams that consistently deploy production-grade models while maintaining high alignment, technical rigor, and adaptability in a fast-evolving tech landscape.",
+      "Building and mentoring specialized AI and MLOps teams that consistently deploy production--grade models while maintaining high alignment, technical rigor, and adaptability in a fast--evolving tech landscape.",
   },
   {
     icon: "target" as const,
     title: "Strategy",
     description:
-      "Translating AI capabilities into scalable business solutions, designing clear long-term architectures, and establishing MLOps roadmaps that deliver rapid value under tight timelines.",
+      "Translating AI capabilities into scalable business solutions, designing clear long--term architectures, and establishing MLOps roadmaps that deliver rapid value under tight timelines.",
   },
   {
     icon: "layers" as const,
     title: "Technology",
     description:
-      "Architecting resilient, secure, and cost-optimized cloud AI infrastructure, automating CI/CD pipelines for machine learning, and designing scalable API frameworks.",
+      "Architecting resilient, secure, and cost--optimized cloud AI infrastructure, automating CI/CD pipelines for machine learning, and designing scalable API frameworks.",
   },
   {
     icon: "trending" as const,
     title: "Business Development",
     description:
-      "Bridging the gap between technical AI potential and executive buy-in, pitching high-ROI cloud architectures, and aligning cross-functional stakeholders on strategic AI investments.",
+      "Bridging the gap between technical AI potential and executive buy--in, pitching high--ROI cloud architectures, and aligning cross-functional stakeholders on strategic AI investments.",
   },
   {
     icon: "clipboard" as const,
     title: "Program Management",
     description:
-      "Orchestrating complex, cross-functional AI lifecycles--from initial data ingestion to cloud",
+      "Orchestrating complex, cross-functional AI lifecycles--from initial data ingestion to cloud deployment--ensuring projects stay on schedule, within compute budgets, and deliver transparent metrics.\n\n\n",
   },
   {
     icon: "spark" as const,
-    title: "Innovation",
+    title: "Innovation\nTransforming cutting-edge Generative AI and LLM research into stable, enterprise-grade applications through rigorous, data-driven vlidation and agile proof of concepts.",
     description:
       "",
   },
@@ -75,7 +75,7 @@ export const experience = [
     role: "[YOUR JOB TITLE]",
     company: "[COMPANY NAME]",
     location: "[LOCATION]",
-    period: "2021 — Present",
+    period: "— PRESENT",
     achievements: [
       "Led a cross-functional organisation of [NUMBER] people across product, engineering and operations.",
       "Delivered a multi-year transformation program that reduced operating cost by [X]%.",
@@ -86,7 +86,7 @@ export const experience = [
     role: "[PREVIOUS JOB TITLE]",
     company: "[PREVIOUS COMPANY]",
     location: "[LOCATION]",
-    period: "2018 — 2021",
+    period: "DATE",
     achievements: [
       "Owned a [AMOUNT] portfolio and grew it by [X]% over three years.",
       "Rebuilt the delivery process, cutting time-to-launch from months to weeks.",
@@ -97,7 +97,7 @@ export const experience = [
     role: "[EARLIER JOB TITLE]",
     company: "[EARLIER COMPANY]",
     location: "[LOCATION]",
-    period: "2015 — 2018",
+    period: "DATE",
     achievements: [
       "Launched the flagship platform that became the company's primary revenue channel.",
       "Introduced measurement and reporting standards adopted company-wide.",
