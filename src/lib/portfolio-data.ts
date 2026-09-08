@@ -4,14 +4,14 @@ import project3 from "@/assets/project-3.jpg";
 import project4 from "@/assets/project-4.jpg";
 
 export const profile = {
-  name: "[YOUR NAME]",
-  title: "[YOUR PROFESSIONAL TITLE]",
+  name: "SAFWAN KT",
+  title: "Cloud AI Engineer",
   statement:
     "I build meaningful solutions, create measurable impact, and turn ambitious ideas into reality.",
   email: "[YOUR EMAIL]",
   linkedin: "[YOUR LINKEDIN]",
   github: "[YOUR GITHUB]",
-  location: "[YOUR LOCATION]",
+  location: "all over india",
   tagline: "Strategy, leadership and technology — executed with precision.",
 };
 
@@ -25,10 +25,10 @@ export const navItems = [
 ];
 
 export const stats = [
-  { value: "10+", label: "Years of Experience" },
-  { value: "50+", label: "Projects Completed" },
-  { value: "25+", label: "Clients & Organizations" },
-  { value: "15+", label: "Certifications & Awards" },
+  { value: "0", label: "Years of Experience" },
+  { value: "0", label: "Projects Completed" },
+  { value: "0", label: "Clients & Organizations" },
+  { value: "0", label: "Certifications & Awards" },
 ];
 
 export const expertise = [
@@ -36,37 +36,37 @@ export const expertise = [
     icon: "compass" as const,
     title: "Leadership",
     description:
-      "Building and mentoring high-performing teams that stay accountable, aligned and motivated through change.",
+      "Building and mentoring specialized AI and MLOps teams that consistently deploy production-grade models while maintaining high alignment, technical rigor, and adaptability in a fast-evolving tech landscape.",
   },
   {
     icon: "target" as const,
     title: "Strategy",
     description:
-      "Translating long-term vision into quarterly priorities, clear ownership and decisions that hold under pressure.",
+      "Translating AI capabilities into scalable business solutions, designing clear long-term architectures, and establishing MLOps roadmaps that deliver rapid value under tight timelines.",
   },
   {
     icon: "layers" as const,
     title: "Technology",
     description:
-      "Architecting resilient platforms and modernisation roadmaps that reduce cost while raising delivery speed.",
+      "Architecting resilient, secure, and cost-optimized cloud AI infrastructure, automating CI/CD pipelines for machine learning, and designing scalable API frameworks.",
   },
   {
     icon: "trending" as const,
     title: "Business Development",
     description:
-      "Opening new markets and partnerships, from first conversation to signed agreement and durable revenue.",
+      "Bridging the gap between technical AI potential and executive buy-in, pitching high-ROI cloud architectures, and aligning cross-functional stakeholders on strategic AI investments.",
   },
   {
     icon: "clipboard" as const,
     title: "Program Management",
     description:
-      "Running complex multi-stakeholder programs on scope, on budget and with transparent executive reporting.",
+      "Orchestrating complex, cross-functional AI lifecycles--from initial data ingestion to cloud",
   },
   {
     icon: "spark" as const,
     title: "Innovation",
     description:
-      "Turning emerging technology into practical products through disciplined experimentation and fast validation.",
+      "",
   },
 ];
 

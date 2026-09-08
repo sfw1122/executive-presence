@@ -15,8 +15,7 @@ export function About() {
           <div className="space-y-6 text-base leading-relaxed text-muted-foreground sm:text-lg">
             <Reveal delay={60}>
               <p>
-                <span className="font-semibold text-foreground">[YOUR BIO]</span>{" "}
-                — I work at the intersection of business strategy and technology,
+                &nbsp;&nbsp;I work at the intersection of business strategy and technology,
                 helping organisations make decisions that stand up years later.
               </p>
             </Reveal>
