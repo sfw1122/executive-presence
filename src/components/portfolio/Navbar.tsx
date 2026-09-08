@@ -31,8 +31,6 @@ export function Navbar() {
           href="#home"
           className="min-w-0 truncate text-base font-bold tracking-tight text-foreground sm:text-lg"
         >
-          {profile.name}
-          <span className="text-gold">.</span>
         </a>
 
         <ul className="hidden items-center gap-8 lg:flex">
