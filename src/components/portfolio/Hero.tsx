@@ -69,7 +69,7 @@ export function Hero() {
               alt={`Professional portrait of ${profile.name}`}
               width={1405}
               height={1119}
-              className="aspect-[4/5] w-full rounded-[1.6rem] object-cover object-[60%_20%]"
+              className="aspect-[4/5] w-full rounded-[1.6rem] object-cover object-[50%_25%]"
             />
           </div>
           <div className="glass-card absolute -bottom-6 left-6 rounded-xl px-5 py-3">
