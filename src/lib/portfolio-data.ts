@@ -64,9 +64,9 @@ export const expertise = [
   },
   {
     icon: "spark" as const,
-    title: "Innovation\nTransforming cutting-edge Generative AI and LLM research into stable, enterprise-grade applications through rigorous, data-driven vlidation and agile proof of concepts.",
+    title: "Innovation",
     description:
-      "",
+      "Transforming cutting-edge Generative AI and LLM research into stable, enterprise-grade applications through rigorous, data-driven vlidation and agile proof of concepts.",
   },
 ];
 
